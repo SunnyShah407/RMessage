@@ -30,5 +30,4 @@ There are 4 different types already set up for you: Success, Error, Warning, Mes
   s.resources = ['RMessage/Resources/**/*.xib', 'RMessage/Assets/**/*.{png,jpg,json}']
   s.public_header_files = 'RMessage/*.h'
   s.dependency 'HexColors', '~> 4.0'
-  s.dependency 'PPTopMostController'
 end

@@ -26,9 +26,6 @@
   "dependencies": {
     "HexColors": [
       "~> 4.0"
-    ],
-    "PPTopMostController": [
-
     ]
   }
 }
